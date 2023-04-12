@@ -1,0 +1,109 @@
+
+body {
+  margin: 0px;
+  text-align: center;
+  font-family:  Quicksand, sans-serif;
+}
+h1 {
+  margin: 50px auto 0px auto;
+  font-family: Sacramento,cursive;
+  font-size: 600%;
+  color: #19376D;
+  line-height: 2;
+}
+h2 {
+  margin-top: 0px;
+  padding-bottom: 10px;
+  font-family: 'Quicksand', cursive;
+  font-size: 400%;
+  color: #19376D;
+  font-weight: normal;
+}
+h3 {
+  font-size: 300%;
+  color: #569DAA;
+}
+p {
+  font-size: 130%;
+
+}
+.top-container {
+  position: relative;
+  align-self: center;
+  background-color: #B9EDDD;
+  padding-top: 100px;
+}
+.skills{
+  padding: 100px 0 100px 0;
+}
+.profile {
+  padding: 100px 0 100px 0;
+}
+.Pro {
+  text-decoration: underline;
+}
+.cloud2 {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.cloud1 {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.instagram {
+  height: 50px;
+  width: 50px;
+}
+.facebook {
+  height: 50px;
+  width: 50px;
+}
+hr{
+  width: 10%;
+  color: #E8D5C4;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+}
+.skill-row {
+    width: 50% ;
+    margin: 100px auto 100px auto;
+    text-align: left;
+    line-height: 2;
+}
+.contact-me {
+  padding: 100px 0 50px 0;
+}
+.bottom-container {
+  background-color: #B9EDDD;
+  padding: 50px 0 20px 0px;
+}
+.Python-img {
+  width: 50%;
+  float: left;
+  margin-right: 30px;
+}
+
+.design {
+  width: 50%;
+  float: right;
+  margin-left: 30px;
+}
+.btn {
+  -webkit-border-radius: 19;
+  -moz-border-radius: 19;
+  border-radius: 19px;
+  font-family: Quicksand;
+  color: white;
+  font-size: 20px;
+  background: #87CBB9;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: #34d1a7;
+  text-decoration: none;
